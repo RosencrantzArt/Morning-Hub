@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="morning routine,morning person, meditation, positive affirmations,morning runners, self-care practices">
+</head>
+    <title>Morning Hub</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon/favicon-16x16.png">
+    <script src="https://kit.fontawesome.com/36d8e89147.js" crossorigin="anonymous"></script>
+    <style>
+        .social-icons {
+            text-align: center; 
+        }
+
+        .social-icons a {
+            display: inline-block; 
+            margin: 0 10px; 
+        }
+
+        .social-icons a i {
+            font-size: 30px; 
+            color: rgb(20, 119, 121); 
+        }
+
+        .center-icon {
+            font-size: 32px; 
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #f6ba38;
+            color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        nav ul li {
+            display: inline-block;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #333;
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            color: #333;
+            padding: 12px 16px;
+            display: block;
+            text-decoration: none;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .hero-image {
+            background-image: url('flying-birds-4268007_1280.png');
+            background-size: cover;
+            height: 400px;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f6ba38;
+            color:#333;
+        }
+
+        .welcome-section,
+        .about-us,
+        .price {
+            background-color: #f6ba38;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .hero-image {
+                height: 300px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Morning Hub</h1>
+        <nav>
+            <ul>
+                <li class="dropdown" onclick="toggleDropdown()">
+                    <a href="#">All you need to know</a>
+                    <div class="dropdown-content">
+                        <a href="#about-us">About us</a>
+                        <a href="#price">Price</a>
+                        <a href="#sign-up">Sign up</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <div class="hero-image"></div>
+    <div class="content">
+        <div class="content welcome-section">
+            <h2>Welcome to Morning Hub!</h2>
+            <p>🌅 Welcome to the Morning Hub Community! <br>
+
+                Are you a morning person who loves to kickstart your day on the right foot? Do you crave a supportive
+                community to help you tackle your mornings with enthusiasm and energy? Look no further than the Morning
+                Hub!<br>
+
+                Every morning between 6-8 AM, we gather virtually on Slack for our Morning Hub huddle. Whether you're an
+                early riser ready to conquer the world or someone who needs a little extra motivation to get going, our
+                community is here to support you.<br>
+
+                Join us as we stretch, run, or simply stand and walk in place – whatever gets your blood flowing and
+                sets
+                the tone for a productive day ahead. Our morning routines may vary, but our shared goal is to embrace
+                the
+                morning with positivity and purpose.<br>
+
+                At Morning Hub, you'll find:<br>
+
+                🌟 Encouragement: Receive uplifting messages and support from fellow members to start your day on a high
+                note.<br>
+
+                🌟 Accountability: Set morning goals and share your achievements with the community, holding yourself
+                accountable and celebrating your progress.<br>
+
+                🌟 Connection: Build meaningful connections with like-minded individuals who value the power of a
+                productive
+                morning routine.<br>
+
+                Whether you're a seasoned morning person or striving to become one, the Morning Hub is your go-to
+                destination for a vibrant start to each day. Tune in, lace up your shoes, and be a part of our
+                energizing
+                morning community!<br>
+
+                Join us at the Morning Hub and make every morning a masterpiece. 🌄</p>
+        </div>
+        <div class="about-us">
+            <p>
+                About us - At Morning Hub, we're not just a community – we're a flock of early birds, ready to soar with
+                the
+                sunrise and embrace the day ahead. <br>
+
+                🌟We believe in the power of movement, the rhythm of the morning, and the joy
+                of starting our days on an uplifting note.<br>
+
+                🌟Imagine a group of friends, united by a shared passion for movement and the magic of early
+                mornings.<br>
+
+                🌟Join us as we rise with the sun, move with purpose, and let our spirits
+                soar like air balloons, carrying us through the day ahead.</p>
+        </div>
+        <div class="price">
+            <p>
+                Price-In the hustle and bustle of our adventurous lives, let's not forget to give credit where it's due:
+                to
+                our morning heroes! 🌅 <br>
+                These unsung champions keep our routines running smoothly, ensuring we're ready
+                to seize the day. Here's the financial rundown for these invaluable contributors <br>
+
+                🌟 Price per year: €500<br>
+                🌟Price per month: €55<br>
+            </p>
+            </div>
+        <div class="sign-up" id="footer-sign-up">
+            <h2>Sign Up</h2>
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <td><input type="text" name="name" placeholder="Enter your name"></td>
+                </tr>
+                <tr>
+                    <th>Email</th>
+                    <td><input type="email" name="email" placeholder="Enter your email"></td>
+                </tr>
+            </table>
+        </div>
+        <div id="about-us" class="content welcome-section">
+            <!-- About us section content -->
+        </div>
+        <div id="price" class="content">
+            <!-- Price section content -->
+        </div>
+        <div id="sign-up" class="content">
+            <!-- Sign up section content -->
+        </div>
+    </div>
+    <footer>
+        <div class="social-icons">
+            <a href="https://slack.com/" target="_blank"><i class="fab fa-slack"></i></a>
+            <a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
+        </div>
+    </footer>
+</body>
+
+</html>
