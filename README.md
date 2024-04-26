@@ -1,6 +1,4 @@
-<p align="center"><img src="assets/Screenshot 2024-04-25 at 15.25.32 Small.png" alt="drawing" width="800"/></p>
-
-
+<p align="center"><img src="Screenshot 2024-04-25 at 18.13.35.png" alt="drawing" width="800"/></p>
 
 Morning Hub Webpage
 Welcome to the Morning Hub webpage, your go-to destination for embracing the morning with positivity and purpose! Whether you're an early riser looking to kickstart your day on the right foot or someone seeking a supportive community to tackle mornings with enthusiasm, Morning Hub has got you covered.
