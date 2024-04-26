@@ -95,7 +95,17 @@ body {
     background-color: #555;
   }
   .social-icons {
-    text-align: center; /* Center the icon */
+    text-align: center; /* Move icons to the center */
+}
+
+.social-icons a {
+    display: inline-block; /* Ensure icons are displayed in a line */
+    margin: 0 10px; /* Add some spacing between icons */
+}
+
+.social-icons a i {
+    font-size: 30px; /* Make icons bigger */
+    color: darkturquoise; /* Set color to dark turquois */
 }
 
 .center-icon {
