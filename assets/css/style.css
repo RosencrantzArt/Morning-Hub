@@ -47,9 +47,9 @@ body {
   }
   
   .hero-image {
-    background-image: url('hero-image.jpg');
+    background-image: url('/workspace/Morning-Hub/flying-birds-4268007_1280.png');
     background-size: cover;
-    height: 400px;
+    height: 300px;
   }
   
   .content {
