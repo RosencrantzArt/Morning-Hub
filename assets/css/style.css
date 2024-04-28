@@ -24,7 +24,7 @@ body {
 }
 
 header {
-  background-color: #f6ba38;
+  background-color: #a3dbec;
   color: #333;
   padding: 10px;
   text-align: center;
@@ -77,14 +77,14 @@ td {
 }
 
 th {
-  background-color: #f6ba38;
+  background-color: #a3dbec;
   color: #333;
 }
 
 .welcome-section,
 .about-us,
 .price {
-  background-color: #f6ba38;
+  background-color: #a3dbec;
   padding: 20px;
   margin-bottom: 20px;
 }
