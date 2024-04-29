@@ -1,10 +1,10 @@
-/* Övergripande stilar */
-/* Anpassa storlek och placering av rubriker */
+@media screen and (max-width: 768px) {
+}
+
 h1, h2, h4 {
   text-align: center;
 }
 
-/* Anpassa storlek och placering av bilder */
 img {
   display: block;
   margin: 0 auto;
@@ -12,25 +12,22 @@ img {
   height: auto;
 }
 
-/* Anpassa bredd på nav-länkar */
 nav ul li a {
   padding: 10px;
 }
 
-/* Anpassa bredden på sign up-tabellen */
 .sign-up table {
   width: 100%;
 }
 
-/* Anpassa bredden på sociala ikoner */
 .social-icons a {
   display: inline-block;
   margin: 0 10px;
 }
 
-/* Responsiva mediaförfrågningar */
+
 @media screen and (max-width: 768px) {
-  /* Anpassa storlek av rubriker för mindre skärmar */
+ 
   h1 {
       font-size: 24px;
   }
@@ -41,17 +38,16 @@ nav ul li a {
       font-size: 16px;
   }
 
-  /* Justera padding för nav-länkar */
+  
   nav ul li a {
       padding: 5px;
   }
 
-  /* Anpassa bredd av sign up-tabellen för mindre skärmar */
   .sign-up table {
       width: 80%;
   }
 
-  /* Anpassa storlek av sociala ikoner */
+  
   .social-icons a {
       margin: 0 5px;
   }
@@ -112,7 +108,7 @@ nav ul li a {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: white;
+  background-color: rgb(98, 181, 220);
   z-index: 1;
 }
 
@@ -132,7 +128,7 @@ nav ul li a {
   align-items: center;
 }
 
-/* Tabellstilar */
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -150,9 +146,7 @@ th {
   color: #333;
 }
 
-.welcome-section,
-.whyjoin,
-.price {
+body {
   background-color: #a3dbec;
   padding: 20px;
   margin-bottom: 20px;
