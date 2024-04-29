@@ -1,33 +1,7 @@
-@media screen and (max-width: 768px) {
-}
+@media screen and (max-width: 768px) 
 
-h1, h2, h4 {
-  text-align: center;
-}
-
-img {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
-  height: auto;
-}
-
-nav ul li a {
-  padding: 10px;
-}
-
-.sign-up table {
-  width: 100%;
-}
-
-.social-icons a {
-  display: inline-block;
-  margin: 0 10px;
-}
-
-
-@media screen and (max-width: 768px) {
- 
+{
+  /* Adjust font sizes for smaller screens */
   h1 {
       font-size: 24px;
   }
@@ -38,47 +12,48 @@ nav ul li a {
       font-size: 16px;
   }
 
-  
+  /* Adjust padding for navigation links */
   nav ul li a {
       padding: 5px;
   }
 
+  /* Adjust width for sign-up table */
   .sign-up table {
       width: 80%;
   }
 
-  
+  /* Adjust margin for social icons */
   .social-icons a {
       margin: 0 5px;
   }
 }
 
-/* Dina befintliga stilar nedanför */
+/* Your existing styles below */
 
-/* Anpassa placering av sociala ikoner */
+/* Adjust placement of social icons */
 .social-icons {
   text-align: center;
 }
 
-/* Anpassa storlek på sociala ikoner */
+/* Adjust size of social icons */
 .social-icons a i {
   font-size: 30px;
   color: rgb(20, 119, 121);
 }
 
-/* Anpassa storlek på center-ikon */
+/* Adjust size of center icon */
 .center-icon {
   font-size: 32px;
 }
 
-/* Anpassa typsnitt och marginaler för hela sidan */
+/* Adjust font and margins for entire page */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
-/* Anpassa header-stilar */
+/* Adjust header styles */
 header {
   background-color: #a3dbec;
   color: #333;
@@ -86,14 +61,14 @@ header {
   text-align: center;
 }
 
-/* Anpassa navigationslistan */
+/* Adjust navigation list */
 nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-/* Anpassa navigationslänkar */
+/* Adjust navigation links */
 nav ul li {
   display: inline-block;
   margin-right: 20px;
@@ -104,7 +79,7 @@ nav ul li a {
   text-decoration: none;
 }
 
-/* Dropdown-menystilar */
+/* Dropdown menu styles */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -128,7 +103,7 @@ nav ul li a {
   align-items: left;
 }
 
-
+/* Table styles */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -146,13 +121,20 @@ th {
   color: #333;
 }
 
+/* Background color and padding for body */
 body {
   background-color: #a3dbec;
   padding: 20px;
   margin-bottom: 20px;
 }
 
-
+/* Price class style */
 .price {
   margin-bottom: 0px;
+}
+/* CSS to make the image responsive */
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
