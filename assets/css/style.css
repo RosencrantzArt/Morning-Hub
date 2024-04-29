@@ -1,6 +1,12 @@
 @media screen and (max-width: 768px) 
 
 {
+  .jersey-20-regular {
+    font-family: "Jersey 20", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
   /* Adjust font sizes for smaller screens */
   h1 {
       font-size: 24px;
@@ -48,7 +54,7 @@
 
 /* Adjust font and margins for entire page */
 body {
-  font-family: Arial, sans-serif;
+  font-family: Jersey 20, sans-serif;
   margin: 0;
   padding: 0;
 }
