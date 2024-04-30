@@ -1,11 +1,12 @@
 @media screen and (max-width: 768px) 
 
 {
-  .jersey-20-regular {
-    font-family: "Jersey 20", sans-serif;
+  .bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
+  
   
   /* Adjust font sizes for smaller screens */
   h1 {
@@ -54,7 +55,7 @@
 
 /* Adjust font and margins for entire page */
 body {
-  font-family: Jersey 20, sans-serif;
+  font-family: Bebas Neue, sans-serif;
   margin: 0;
   padding: 0;
 }
