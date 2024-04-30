@@ -53,7 +53,7 @@ Footer with Social Icons: Provides links to social media platforms like Slack, T
 
 Testing
 I validated the code thru 
-https://validator.w3.org
+https://validator.w3.org <br> 
 https://jigsaw.w3.org/css-validator/validator
 
 
