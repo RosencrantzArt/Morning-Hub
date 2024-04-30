@@ -48,7 +48,7 @@ Sign Up Section: Allows users to easily sign up for Morning Club by providing th
 
 
 Footer with Social Icons: Provides links to social media platforms like Slack, Twitter, and Facebook, for slack you have to becoem a member to join and the other channels are for marketing and share content.
-<p align="center"><img src="assets/images/Screenshot 2024-04-30 at 07.38.32.png" alt="drawing" width="800"/></p>
+<p align="center"><img src="assets/images/Screenshot 2024-04-30 at 09.48.10.png" alt="drawing" width="800"/></p>
 
 
 Testing
