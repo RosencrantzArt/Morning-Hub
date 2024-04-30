@@ -7,8 +7,6 @@
     font-style: normal;
   }
   
-  
-  /* Adjust font sizes for smaller screens */
   h1 {
       font-size: 24px;
   }
@@ -19,17 +17,14 @@
       font-size: 16px;
   }
 
-  /* Adjust padding for navigation links */
   nav ul li a {
       padding: 5px;
   }
 
-  /* Adjust width for sign-up table */
   .sign-up table {
       width: 80%;
   }
 
-  /* Adjust margin for social icons */
   .social-icons a {
       margin: 0 5px;
   }
@@ -38,32 +33,26 @@
 }
 }
 
-/* Your existing styles below */
-
-/* Adjust placement of social icons */
 .social-icons {
   text-align: center;
 }
 
-/* Adjust size of social icons */
 .social-icons a i {
   font-size: 30px;
   color: rgb(20, 119, 121);
 }
 
-/* Adjust size of center icon */
 .center-icon {
   font-size: 32px;
 }
 
-/* Adjust font and margins for entire page */
 body {
   font-family: Bebas Neue, sans-serif;
   margin: 0;
   padding: 0;
 }
 
-/* Adjust header styles */
+
 header {
   background-color: #a3dbec;
   color: #333;
@@ -71,14 +60,14 @@ header {
   text-align: center;
 }
 
-/* Adjust navigation list */
+
 nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-/* Adjust navigation links */
+
 nav ul li {
   display: inline-block;
   margin-right: 20px;
@@ -89,7 +78,7 @@ nav ul li a {
   text-decoration: none;
 }
 
-/* Dropdown menu styles */
+
 .dropdown-content {
   display: none;
   position: absolute;
@@ -113,7 +102,7 @@ nav ul li a {
   align-items:center;
 }
 
-/* Table styles */
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -131,18 +120,18 @@ th {
   color: #333;
 }
 
-/* Background color and padding for body */
+
 body {
   background-color: #a3dbec;
   padding: 20px;
   margin-bottom: 20px;
 }
 
-/* Price class style */
+
 .price {
   margin-bottom: 0px;
 }
-/* CSS to make the image responsive */
+
 img {
   display: block;
   max-width: 100%;
