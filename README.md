@@ -27,10 +27,12 @@ Welcome Message: The welcome message introduces Morning Club as a transformative
 
 Morning Activities Section: 
 This section showcases a variety of invigorating morning activities such as jogging, yoga, walking, exercising in place, and stretching, providing options for individuals of all fitness levels who want to prioritize their physical and mental well-being.
+<p align="center"><img src="assets/images/pexels-maksim-romashkin-6152103.jpg" alt="drawing" width="800"/></p>
 
 
 How Does It Work Section: 
 Explains the mechanics of joining Morning Club, including virtual gatherings on Slack and choosing huddles tailored to preferences and fitness levels, catering to individuals seeking guidance and support in establishing a consistent morning routine.
+<p align="center"><img src="assets/images/the-great-wave-off-kanagawa-7107112_640.png" alt="drawing" width="800"/></p>
 
 
 
@@ -47,6 +49,15 @@ Sign Up Section: Allows users to easily sign up for Morning Club by providing th
 Footer with Social Icons: Provides links to social media platforms like Slack, Twitter, and Facebook, for slack you have to becoem a member to join and the other channels are for marketing and share content. 
 
 Testing
+I validated the code thru 
+https://validator.w3.org
+https://jigsaw.w3.org/css-validator/validator
+
+
+Lighthouse 
+
+
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
