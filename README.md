@@ -22,7 +22,6 @@ Morning Club webpage is designed to provide enough information about the Morning
 About Morning Club:
 Morning Hub is a virtual community that gathers every morning between 6-8 AM on Slack for a morning huddle. We believe in the power of movement, the rhythm of the morning, and the joy of starting our days on an uplifting note. Our community offers encouragement, accountability, and connection to help you build a vibrant morning routine and make every morning a great start for you. It's okay to be anonymous, and we strive to create a safe place for everyone.
 
-Features:
 
 Navbar/Sections:
 Instead of scrolling, you can click on the sections to reach the most relevant information. The navbar follows you, making it easy to access different sections without scrolling through the site.
@@ -63,7 +62,15 @@ Provides links to social media platforms like Slack, Twitter, and Facebook, for 
 <p align="center"><img src="assets/images/socilalmediascreenshot.png" alt="drawing" width="800"/></p>
 
 
-USER STORIES 
+
+UX GOALS
+
+Visitor Goals
+The target audience for Morning Club are:
+
+People who wakes up eirly and want to do something for their health
+People who are interested in training but don't want to leave their home or go to a gym
+
 
 User Stories:
 
@@ -72,11 +79,13 @@ User Stories:
 2. As an individual on the autism spectrum with difficulty in social settings, I want to join Morning Club to receive the social push I need to start my day with purpose and intention, so I can feel supported and included in a community of like-minded individuals despite my challenges with social interaction.
 
 3. I'm working from home and living far from a gym, I want to join Morning Club to access virtual morning activities that I can conveniently participate in from the comfort of my own home, so I can maintain a healthy lifestyle and stay active despite my remote location.
-4. 
-Like to enjoy moving every morning but doesn't necessarily require a gym, I want to join Morning Club to explore a variety of invigorating activities like jogging, walking, yoga, and stretching, so I can start my day on a positive note and connect with a supportive community of like-minded individuals who prioritize movement and well-being.
+4. Like to enjoy moving every morning but doesn't necessarily require a gym, I want to join Morning Club to explore a variety of invigorating activities like jogging, walking, yoga, and stretching, so I can start my day on a positive note and connect with a supportive community of like-minded individuals who prioritize movement and well-being.
 
 5. As someone who feels obligated to join but doesn't want to feel pressured, I want to join Morning Club where I can choose to say "good morning" to everyone but not feel obligated to do so, knowing that by participating, I'll feel more inspired and motivated to join in the activities and connect with others in the community. This way, I can enjoy the sense of belonging and encouragement without feeling overwhelmed by expectations.
 
+
+Visual design 
+<p align="center"><img src="assets/images/colorpallet.png" alt="drawing" width="800"/></p>
 
 
 
@@ -91,18 +100,25 @@ Lighthouse
 
 
 Unfixed Bugs
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+
 
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+Deploying and committing code has been quite the learning experience for me. Initially, I encountered some issues with the connection between Gitpod and GitHub, which caused some frustration. However, overcoming these challenges has taught me valuable lessons about version control and deployment processes.
 
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+One of the key insights I gained was the importance of thoughtful commits. At first, I believed that I needed to commit every change I made, which resulted in a cluttered history and unclear commits. Through trial and error, I learned to be more selective about what to commit, focusing on meaningful changes that align with the project's goals.
+
+Furthermore, I realized the significance of planning and organization in the development process. Instead of diving straight into coding, I now take the time to outline my ideas and create a wireframe. This structured approach helps me visualize the project's structure and identify potential challenges before writing a single line of code.
+
+In analogy, I used to approach coding like sorting through a box of LEGO pieces by color and shape before building. Now, I understand the value of first laying out all the pieces and then assembling them with purpose and clarity.
+
+Searching for answers and AI-generated suggestions during the development process has presented its own set of challenges. Often, when seeking solutions or guidance online, I encountered recommendations that were not directly relevant to my project or even included programming languages unfamiliar to me.
+
+This influx of information, while sometimes overwhelming, served as a reminder of the importance of discernment and critical thinking. I learned to sift through the noise and identify the most applicable solutions for my specific needs, rather than blindly following generic advice.
+
+Moreover, encountering suggestions involving unfamiliar programming languages served as a humbling reminder of the vastness of the tech landscape and the continuous learning journey inherent in software development. While it can be tempting to explore new languages and technologies, I recognized the value in focusing on mastering the tools most relevant to my current project and skillset.
+
 
 Credits
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
+
 
 
