@@ -3,7 +3,6 @@
 <p align="center"><img src="assets/images/amiresponsiv.png" alt="drawing" width="800"/></p>
 
 
-
                              
 
 Morning Club webpage is designed to provide enough information about the Morning Club and its purpose for the target group. Arguments and compelling quotes are mainly through ads directed to specific target groups and organic content on social media. Since the club is not about meeting other people, I choose not to have faces in the pictures and also no pictures that symbolize different training performances. This gives the club a more secretive vibe, but the color and pictures are warm and welcoming, also giving an easy, inclusive, and simple first impression.
@@ -12,19 +11,19 @@ Morning Club webpage is designed to provide enough information about the Morning
 About Morning Club:
 Morning Hub is a virtual community that gathers every morning between 6-8 AM on Slack for a morning huddle. We believe in the power of movement, the rhythm of the morning, and the joy of starting our days on an uplifting note. Our community offers encouragement, accountability, and connection to help you build a vibrant morning routine and make every morning a great start for you. It's okay to be anonymous, and we strive to create a safe place for everyone.
 
+Wireframe:<p align="center"><img src="assets/images/wireframe.jpg" alt="drawing" width="800"/></p>
+
+#Features:
 
 
-Features:
+#Morning Club webpage is designed to provide enough information about the Morning Club and its purpose for the target group. Arguments and compelling quotes are mainly through ads directed to specific target groups and organic content on social media. Since the club is not about meeting other people, I choose not to have faces in the pictures and also no pictures that symbolize different training performances. This gives the club a more secretive vibe, but the color and pictures are warm and welcoming, also giving an easy, inclusive, and simple first impression.
 
-
-Morning Club webpage is designed to provide enough information about the Morning Club and its purpose for the target group. Arguments and compelling quotes are mainly through ads directed to specific target groups and organic content on social media. Since the club is not about meeting other people, I choose not to have faces in the pictures and also no pictures that symbolize different training performances. This gives the club a more secretive vibe, but the color and pictures are warm and welcoming, also giving an easy, inclusive, and simple first impression.
-
-About Morning Club:
+#About Morning Club:
 Morning Hub is a virtual community that gathers every morning between 6-8 AM on Slack for a morning huddle. We believe in the power of movement, the rhythm of the morning, and the joy of starting our days on an uplifting note. Our community offers encouragement, accountability, and connection to help you build a vibrant morning routine and make every morning a great start for you. It's okay to be anonymous, and we strive to create a safe place for everyone.
 
 
 Navbar/Sections:
-Instead of scrolling, you can click on the sections to reach the most relevant information. The navbar follows you, making it easy to access different sections without scrolling through the site.
+Instead of scrolling, you can click on the sections to reach the most relevant information. The navbar i sticky to making it easy to access different sections without scrolling through the site.
 <p align="center"><img src="assets/images/navabarscreenshot.png" alt="drawing" width="800"/></p>
 
 
@@ -63,12 +62,17 @@ Provides links to social media platforms like Slack, Twitter, and Facebook, for 
 
 
 
-UX GOALS
+Ux goals
 
 Visitor Goals
-The target audience for Morning Club are:
+The visitor is suppose to explore our platform, discover a wealth of information curated to provide you with deeper insights and resources than what you may have encountered through our ads or organic content.
 
-People who wakes up eirly and want to do something for their health
+Our focus here at the Morning Club is on empowering the you to take control of your mornings. We understand that the way you begin your day sets the tone for everything that follows. That's why our site is dedicated to offering you tools, tips, and community support to help you craft a morning routine that aligns with your goals and values.
+
+Whether you're looking to boost productivity, cultivate mindfulness, or simply find inspiration to make the most of your mornings, you'll find everything you need right here. From expert advice to member-shared experiences, our platform is designed to be a valuable resource on your journey towards morning bliss.
+
+#The target audience for Morning Club are: 
+People who wakes up early and want to do something for their health
 People who are interested in training but don't want to leave their home or go to a gym
 
 
@@ -84,22 +88,57 @@ User Stories:
 5. As someone who feels obligated to join but doesn't want to feel pressured, I want to join Morning Club where I can choose to say "good morning" to everyone but not feel obligated to do so, knowing that by participating, I'll feel more inspired and motivated to join in the activities and connect with others in the community. This way, I can enjoy the sense of belonging and encouragement without feeling overwhelmed by expectations.
 
 
+
+Technologies Used
+
+Languages
+
+HTML
+Page markup
+
+
+CSS
+Styling
+
+
+
+Tools
+
+Favicon Generator
+https://favicon.io/on
+
+Google fonts
+https://fonts.google.com/
+
+
+
 Visual design 
-<p align="center"><img src="assets/images/colorpallet.png" alt="drawing" width="800"/></p>
+
+Images
+https://pixabay.com/sv/
+
+
+Font famiy Bebas Neue - I opted for the Bebas Neue font family as I aimed for bold, all-capitalized text, ensuring the site remains informative and easily readable.
+
+<p align="center"><img src="assets/images/colorpalett.png" alt="drawing" width="800"/></p>
 
 
 
 Testing
-I validated the code thru 
-https://validator.w3.org <br> 
-https://jigsaw.w3.org/css-validator/validator
+HTML
+No errors were returned when passing through the official W3C validator<br>
+
+CSS
+No errors were found when passing through the official (Jigsaw) validator
 
 
 Lighthouse 
 <p align="center"><img src="assets/images/lighthousescreenshot.png" alt="drawing" width="800"/></p>
 
 
-Unfixed Bugs
+Bugs
+I encountered numerous bugs throughout the process, but with invaluable assistance from my classmates, Slack, tutors, ChatGPT, and my mentor, I was able to address them effectively. In hindsight, I realize the importance of documenting these issues before fixing them to maintain clarity and ensure I retain what I've learned, thus avoiding repetition. This experience has taught me the necessity of documenting and committing changes more frequently, in a systematic manner, and being more specific in my commit messages  
+
 
 
 Deployment
@@ -120,5 +159,11 @@ Moreover, encountering suggestions involving unfamiliar programming languages se
 
 Credits
 
+Mentor Rory
 
 
+
+
+
+Contact
+Please feel free to contact me at anrosencrantz79@gmail.com 
