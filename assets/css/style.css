@@ -1,139 +1,181 @@
-@media screen and (max-width: 768px) 
+/* Styles for the header */
+header {
+  position: sticky;
+  /* Header sticks to the top of the viewport */
+  top: 0;
+  width: 100%;
+  background-color: #a3dbec;
+  /* Background color of the header */
+  color: #333;
+  /* Text color of the header */
+  padding: 10px;
+  /* Padding around the header content */
+  text-align: center;
+  /* Align header content to the center */
+  z-index: 1000;
+  /* Ensure the header stays on top of other content */
+}
 
-{
+/* Styles for various elements when the screen width is less than or equal to 768px */
+@media screen and (max-width: 768px) {
+
+  /* Font styles for text using Bebas Neue font */
   .bebas-neue-regular {
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
-  
+
+  /* Font size for h1 */
   h1 {
-      font-size: 24px;
+    font-size: 24px;
   }
+
+  /* Font size for h2 */
   h2 {
-      font-size: 20px;
-  }
-  h4 {
-      font-size: 16px;
+    font-size: 20px;
   }
 
+  /* Font size for paragraphs */
+  p {
+    font-size: 16px;
+  }
+
+  /* Padding for navigation links */
   nav ul li a {
-      padding: 5px;
+    padding: 5px;
   }
 
+  /* Width of the sign-up form table */
   .sign-up table {
-      width: 80%;
+    width: 80%;
   }
 
+  /* Margin between social media icons */
   .social-icons a {
-      margin: 0 5px;
+    margin: 0 5px;
   }
+
+  /* Padding at the top of the social icons */
   .social-icons {
     padding-top: 30px;
-}
+  }
 }
 
+/* Styles for social icons */
 .social-icons {
   text-align: center;
+  /* Center-align social icons */
 }
 
+/* Styles for social icon elements */
 .social-icons a i {
   font-size: 30px;
+  /* Font size of social icons */
   color: rgb(20, 119, 121);
+  /* Color of social icons */
 }
 
+/* Font size for centered icons */
 .center-icon {
   font-size: 32px;
 }
 
+/* Default styles for the body */
 body {
-  font-family: Bebas Neue, sans-serif;
+  font-family: "Bebas Neue", "sans-serif";
+  /* Font family for body text */
   margin: 0;
+  /* Remove default margin */
   padding: 0;
-}
-
-
-header {
+  /* Remove default padding */
   background-color: #a3dbec;
-  color: #333;
-  padding: 10px;
-  text-align: center;
+  /* Background color for the body */
 }
 
-
+/* Styles for navigation links */
 nav ul {
   list-style: none;
+  /* Remove default list styling */
   padding: 0;
+  /* Remove default padding */
   margin: 0;
+  /* Remove default margin */
 }
 
-
+/* Styles for navigation list items */
 nav ul li {
   display: inline-block;
+  /* Display list items inline */
   margin-right: 20px;
+  /* Margin between list items */
 }
 
+/* Styles for navigation links */
 nav ul li a {
   color: #13278f;
+  /* Color of navigation links */
   text-decoration: none;
+  /* Remove underline from navigation links */
 }
 
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: rgb(98, 181, 220);
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: #13278f;
-  padding: 12px 16px;
-  display: block;
-  text-decoration: none;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
+/* Styles for centered sections */
 .centered-section {
   justify-content: center;
-  align-items:center;
+  /* Center content horizontally */
+  align-items: center;
+  /* Center content vertically */
 }
 
-
+/* Styles for tables */
 table {
   width: 100%;
+  /* Table width 100% */
   border-collapse: collapse;
+  /* Collapse table borders */
 }
 
+/* Styles for table header and data cells */
 th,
 td {
   padding: 8px;
+  /* Padding for table cells */
   border-bottom: 1px solid #1c21ae;
+  /* Bottom border for table cells */
   text-align: left;
+  /* Text alignment in table cells */
 }
 
+/* Styles for table headers */
 th {
   background-color: #a3dbec;
+  /* Background color for table headers */
   color: #333;
+  /* Text color for table headers */
 }
 
-
+/* Additional body styles */
 body {
   background-color: #a3dbec;
+  /* Background color for the body */
   padding: 20px;
+  /* Padding around the body content */
   margin-bottom: 20px;
+  /* Margin at the bottom of the body */
 }
 
-
+/* Additional styles for price elements */
 .price {
   margin-bottom: 0px;
+  /* Margin at the bottom of price elements */
 }
 
+/* Styles for images */
 img {
   display: block;
+  /* Make images block-level elements */
   max-width: 100%;
+  /* Maximum width of images */
   height: auto;
+  /* Automatically adjust height to maintain aspect ratio */
 }
