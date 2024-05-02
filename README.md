@@ -12,7 +12,7 @@
 6. [How Does It Work Section](#how-does-it-work-section)
 7. [Price Rates Section](#price-rates-section)
 8. [Sign-Up Section](#sign-up-section)
-9. [Footer with Social media links](#Footer-with-Social-media-links)
+9. [Footer with Social Media links](#Footer-with-Social-Media-links)
 10. [UX Goals](#ux-goals)
 11. [Visitor Goals](#visitor-goals)
 12. [User Stories](#user-stories)
@@ -30,11 +30,11 @@
 - Description of Morning Club and its purpose.
 - Approach to images and colors for the site.
 
-Morning Club webpage is designed to provide enough information about the Morning Club and its purpose for the target group. Arguments and compelling quotes are mainly through ads directed to specific target groups and organic content on social media. Since the club is not about meeting other people, I choose not to have faces in the pictures and also no pictures that symbolize different training performances. This gives the club a more secretive vibe, but the color and pictures are warm and welcoming, also giving an easy, inclusive, and simple first impression.
+The Morning Club webpage is designed to provide enough information about the Morning Club and its purpose for the target group. Arguments and compelling quotes are mainly through ads directed to specific target groups and organic content on social media. Since the club is not about meeting other people, I choose not to have faces in the pictures and also no pictures that symbolize different training performances. This gives the club a more secretive vibe, but the color and pictures are warm and welcoming, also giving an easy, inclusive, and simple first impression.
 
 
 About Morning Club:
-Morning Hub is a virtual community that gathers every morning between 6-8 AM on Slack for a morning huddle. We believe in the power of movement, the rhythm of the morning, and the joy of starting our days on an uplifting note. Our community offers encouragement, accountability, and connection to help you build a vibrant morning routine and make every morning a great start for you. It's okay to be anonymous, and we strive to create a safe place for everyone.
+The Morning Club is a virtual community that gathers every morning between 6-8 AM on Slack for a morning huddle. We believe in the power of movement, the rhythm of the morning, and the joy of starting our days on an uplifting note. Our community offers encouragement, accountability, and connection to help you build a vibrant morning routine and make every morning a great start for you. It's okay to be anonymous, and we strive to create a safe place for everyone.
 
 
 
@@ -47,14 +47,14 @@ Features:
 - Image of the navbar in action.
 
 
-Instead of scrolling, you can click on the sections to reach the most relevant information. The navbar i sticky to making it easy to access different sections without scrolling through the site.
+Instead of scrolling, you can click on the sections to reach the most relevant information. The navbar is sticky, making it easy to access different sections without scrolling through the site.
 <p align="center"><img src="assets/images/navabarscreenshot.png" alt="drawing" width="800"/></p>
 
 
 ## Welcome Message
 - Description of the welcome message and its purpose.
 - Image of the welcome message on the site.
-Welcome Message: The welcome message gives the user a diriect understanding that the community is on slack. 
+Welcome Message: The welcome message gives the user a direct understanding that the community is on Slack. 
 <p align="center"><img src="assets/images/welcomescreen.png" alt="drawing" width="800"/></p>
 
 
@@ -67,7 +67,7 @@ This section explains the community and what to expect from joining the club. Wh
 ## Morning Activities Section
 - Description of the activities showcased in this section.
 - Image of the Morning Activities section
-This section showcases a variety of invigorating morning activities such as jogging, yoga, walking, exercising in place, and stretching. It provides options for individuals of all fitness levels who want to prioritize their physical and mental well-being and embraces the spirit of Morning Club.
+This section showcases a variety of invigorating morning activities such as jogging, yoga, walking, exercising in place, and stretching. It provides options for individuals of all fitness levels who want to prioritize their physical and mental well-being and embraces the spirit of The Morning Club.
 <p align="center"><img src="assets/images/morningactivityscreen.png" alt="drawing" width="800"/></p>
 
 
@@ -81,7 +81,7 @@ This section explains the mechanics of joining Morning Club, including virtual g
 ## Price Rates Section
 - Description of the subscription options.
 - Image of the Price Rates section.
-Displays the subscription options for Morning Club, offering flexibility with yearly, monthly, and weekly rates, accommodating individuals with varying budgets and commitment levels.
+Displays the subscription options for The Morning Club, offering flexibility with yearly, monthly, and weekly rates, accommodating individuals with varying budgets and commitment levels.
 <p align="center"><img src="assets/images/pricescreenshot.png" alt="drawing" width="800"/></p>
 
 ## Sign-Up Section
@@ -92,7 +92,7 @@ Sign up now to discover our membership options and pricing. As you reach the sig
 
 
 
-## Footer with Social media links
+## Footer with Social Media links
 - Description of the footer and its social media links.
 - Image of the footer with social links to social media
 Provides links to social media platforms like Slack, Twitter, and Facebook, for Slack, you have to become a member to join, and the other channels are for marketing and sharing content.
@@ -106,20 +106,20 @@ Provides links to social media platforms like Slack, Twitter, and Facebook, for 
 - Target audience for Morning Club.
 
 Visitor Goals
-The visitor is suppose to explore our platform, discover a wealth of information curated to provide you with deeper insights and resources than what you may have encountered through our ads or organic content.
+The visitor is supposed to explore our platform, discover a wealth of information curated to provide you with deeper insights and resources than what you may have encountered through our ads or organic content.
 
-Our focus here at the Morning Club is on empowering the you to take control of your mornings. We understand that the way you begin your day sets the tone for everything that follows. That's why our site is dedicated to offering you tools, tips, and community support to help you craft a morning routine that aligns with your goals and values.
+Our focus here at the Morning Club is on empowering you to take control of your mornings. We understand that the way you begin your day sets the tone for everything that follows. That's why our site is dedicated to offering you tools, tips, and community support to help you craft a morning routine that aligns with your goals and values.
 
 Whether you're looking to boost productivity, cultivate mindfulness, or simply find inspiration to make the most of your mornings, you'll find everything you need right here. From expert advice to member-shared experiences, our platform is designed to be a valuable resource on your journey towards morning bliss.
 
 #The target audience for Morning Club are: 
-People who wakes up early and want to do something for their health
+People who wake up early and want to do something for their health
 People who are interested in training but don't want to leave their home or go to a gym
 
 
 
 ## User Stories
-- Five user stories detailing different motivations for joining Morning Club
+- Five user stories detailing different motivations for joining The Morning Club
 
 1. As a busy mom juggling multiple responsibilities, I want to join Morning Club to receive the support and guidance I need to establish a consistent morning routine, so I can prioritize my well-being and start each day feeling energized and focused on taking care of my family.
 
@@ -156,7 +156,7 @@ Google fonts
 https://fonts.google.com/
 
 
-Papper and pen for making Wirefram 
+Paper and pen for making Wireframe
 Wireframe:<p align="center"><img src="assets/images/wireframe.jpg" alt="drawing" width="800"/></p>
 
 
@@ -176,7 +176,7 @@ Images
 https://pixabay.com/sv/
 
 
-Font famiy Bebas Neue - I opted for the Bebas Neue font family as I aimed for bold, all-capitalized text, ensuring the site remains informative and easily readable.
+Font family: Bebas Neue - I opted for the Bebas Neue font family as I aimed for bold, all-capitalized text, ensuring the site remains informative and easily readable.
 
 <p align="center"><img src="assets/images/colorpalett.png" alt="drawing" width="800"/></p>
 
@@ -185,11 +185,12 @@ Font famiy Bebas Neue - I opted for the Bebas Neue font family as I aimed for bo
 ## Testing
 - Details of HTML and CSS testing.
 - Lighthouse test result image
-HTML
+- HTML
 No errors were returned when passing through the official W3C validator<br>
 
-CSS
+-CSS
 No errors were found when passing through the official (Jigsaw) validator
+-Friends and famliy tested on diffrent divices. 
 
 
 Lighthouse 
@@ -220,12 +221,12 @@ Moreover, encountering suggestions involving unfamiliar programming languages se
 
 
 ## Credits
-- Acknowledgments to individuals and resources that contributed to the project
-CI students in our Swedish channel 
-Ci students in our april2024 channel
-Mentor Rory Patrick 
-Thanks to all the tutors who helped me through thick and thin
-Loan Zaharia - CI student
+- Acknowledgments to individuals and resources that contributed to the project. 
+- CI students in our Swedish channel 
+- CI students in our april2024 channel
+- Mentor Rory Patrick 
+- Loan Zaharia - CI student 
+- Youtubers and many different coders on gitpod
 
 ## Contact
 - Contact information for further inquiries or feedback.
