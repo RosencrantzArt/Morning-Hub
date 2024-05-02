@@ -39,8 +39,6 @@ The Morning Club is a virtual community that gathers every morning between 6-8 A
 
 
 
-Features:
-
 
 ## Navbar/Sections
 - Description of the sticky navbar and its functionality.
