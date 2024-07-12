@@ -113,7 +113,7 @@ nav ul li {
 
 /* Styles for navigation links */
 nav ul li a {
-  color: 4;
+  color: #000;
   /* Color of navigation links */
   text-decoration: none;
   /* Remove underline from navigation links */
