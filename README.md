@@ -184,11 +184,15 @@ Font family: Bebas Neue - I opted for the Bebas Neue font family as I aimed for 
 - Details of HTML and CSS testing.
 - Lighthouse test result image
 - HTML
+- HTML subscribe form
 No errors were returned when passing through the official W3C validator<br>
+<p align="center"><img src="assets/images/html validation.png" alt="drawing" width="800"/></p>
+<p align="center"><img src="assets/images/html form validation.png" alt="drawing" width="800"/></p>
 
 -CSS
 No errors were found when passing through the official (Jigsaw) validator
 -Friends and famliy tested on diffrent divices. 
+<p align="center"><img src="assets/images/css validation.png" alt="drawing" width="800"/></p>
 
 
 Lighthouse 
@@ -215,7 +219,8 @@ The link to the live website is here: https://rosencrantzart.github.io/Morning-H
 
 
 ## Learnings
-- Challenges and lessons learned from deploying the project.
+
+Challenges and lessons learned from deploying the project.
 Deploying and committing code has been quite the learning experience for me. Initially, I encountered some issues with the connection between Gitpod and GitHub, which caused some frustration. However, overcoming these challenges has taught me valuable lessons about version control and deployment processes.
 
 One of the key insights I gained was the importance of thoughtful commits. At first, I believed that I needed to commit every change I made, which resulted in a cluttered history and unclear commits. Through trial and error, I learned to be more selective about what to commit, focusing on meaningful changes that align with the project's goals.
