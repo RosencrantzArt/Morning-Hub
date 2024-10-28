@@ -203,7 +203,7 @@ Lighthouse
 - Experience with encountering and fixing bugs during development.
 I encountered numerous bugs throughout the process, but with invaluable assistance from my classmates, Slack, tutors, ChatGPT, and my mentor, I was able to address them effectively. In hindsight, I realize the importance of documenting these issues before fixing them to maintain clarity and ensure I retain what I've learned, thus avoiding repetition. This experience has taught me the necessity of documenting and committing changes more frequently, in a systematic manner, and being more specific in my commit messages  
 
-## Deploying Your Static Website with GitHub Pages
+## Deployment Deploying Your Static Website with GitHub Pages
 
 The site was deployed to GitHub pages. The steps taken to deploy are as follows:
 
